@@ -1,0 +1,8 @@
+no,firstName,lastName,date,accountNumber,total,branch,manager
+1,Seong,Han,2017-01-13,31386397536,4522.24,Oakville,Smith
+2,John,Omar,2016-08-24,54154788423,3541,Oakville,Micheal
+3,Adam,Park,2017-03-11,21548725245,4583.15,Toronto,Kyle
+5,Smith,Garret,2016-08-13,65711254952,11543.24,Missisauga,Micheal
+6,Racheal,Brown,2017-02-28,65648553215,15482,Toronto,Tim
+7,Smith,Han,2017-03-16,32339897999,474.42,Hamilton,Micheal
+8,Hilton,Han,2017-03-16,62240872672,114.15,Missisauga,Micheal
